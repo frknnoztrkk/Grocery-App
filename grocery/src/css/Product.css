@@ -1,0 +1,33 @@
+.product-main{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.product{
+    width:220px;
+    height:320px;
+    border: 1px solid #d3d3d3;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+.course-price{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: red;
+    text-align: right;
+    margin-right: 40px;
+}
+
+.course-desc{
+    padding-left: 8px;
+}

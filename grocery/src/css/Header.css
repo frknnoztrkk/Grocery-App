@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    background-color: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.bigTitle{
+      font-weight: bold;
+    font-size: 30px;
+    color: black;
+    padding: 30px;;
+    text-align: center;
+    
+}
